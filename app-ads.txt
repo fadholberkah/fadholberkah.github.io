@@ -17,7 +17,7 @@ appnexus.com, 13227, RESELLER
 appnexus.com, 13293, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13297, RESELLER, f5ab79cb980f11d1
 appnexus.com, 2764, RESELLER, f5ab79cb980f11d1
-appnexus.com, 7353, RESELLER, f5ab79xcb980f11d1
+appnexus.com, 7353, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9393, RESELLER, f5ab79cb980f11d1
 bidease.com, exchange-20, RESELLER
 bidmachine.io, 113, RESELLER
